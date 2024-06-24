@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "644930496636",
+    "project_id": "push-notif-dummy-3ed6f",
+    "storage_bucket": "push-notif-dummy-3ed6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644930496636:android:cd6d6158c9fa90e0e541f9",
+        "android_client_info": {
+          "package_name": "com.example.notiftest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoGVi4n49Vk__SZeT0vczmG9aBhWlgAiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644930496636:android:a00ce956bd5172f6e541f9",
+        "android_client_info": {
+          "package_name": "com.example.notifyfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoGVi4n49Vk__SZeT0vczmG9aBhWlgAiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644930496636:android:202b428028256128e541f9",
+        "android_client_info": {
+          "package_name": "id.co.pushnotifexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoGVi4n49Vk__SZeT0vczmG9aBhWlgAiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
